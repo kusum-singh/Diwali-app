@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Diwi</string>
+    <string name="your_gifts">AARTI</string>
+    <string name="creat_your_own_personalized_card">creat your own personalized card</string>
+    <string name="go_to_screen_3">surprise</string>
+    <string name="go_to_screen_4">Crackers</string>
+    <string name="go_to_screen_5">Wishes</string>
+    <string name="textview">creat your own personalized card</string>
+
+    <string name="buttonac4">Play</string>
+    <string name="quote">दीप से दीप जले, आपको शांदीप से दीप जले, आपको शांति और सफलता मिले। दीपावली में लक्ष्मी जी आपके घर में आये, सुख, समृद्धि और धन – वैभव लाये।</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO2</string>
+    <string name="wish">सिंह परिवार की ओर से दीपावली की हार्दिक शुभकामनाएं!!!</string>
+    <string name="quote2">दीप से दीप जले, आपको शांदीप से दीप जले, आपको शांति और सफलता मिले। दीपावली में लक्ष्मी जी आपके घर में आये, सुख, समृद्धि और धन – वैभव लाये।</string>
+    <string name="todo4">TODO4</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="todo5">TODO5</string>
+    <string name="Enter_your_Name">Enter your Name</string>
+    <string name="Enter_your_Name2">Enter Sharing Name</string>
+    <string name="textview7">Personalised Card</string>
+    <string name="share">Share</string>
+    <string name="enter_sharing_name">Enter Sharing Name</string>
+    <string name="todof">TODOf</string>
+    <string name="todo10">10TODO</string>
+    <string name="aarti">AARTI</string>
+    <string name="todok">TODOk</string>
+    <string name="Aartiline">आपके लिए अयोध्या के कुछ दृश्य.....</string>
+    <string name="button">Play</string>
+    <string name="button2">Play</string>
+    <string name="textviewe">Heeppyyyy Diwaliiiii.......</string>
+    <string name="todogh">TODOgh</string>
+    <string name="todoaaar">TODOaar</string>
+    <string name="crackers">And here we goooo.....</string>
+    <string name="todocr">TODOcr</string>
+    <string name="todowi">wiTODO</string>
+    <string name="Home">Home Page</string>
+</resources>
